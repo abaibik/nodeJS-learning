@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "node lesson1.js",
+    "start": "node lesson1.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
